@@ -7,3 +7,5 @@ Serão 5 aulas de programação, gratuitas, para você desenvolver do zero sua p
 Inscreva-se: https://www.alura.com.br/imersao-java 
 
 AULA 01 - CONSUMINDO UMA API DE FILMES COM JAVA
+
+AULA 02 - GERANDO FIGURINHAS PARA WHATSAPP
